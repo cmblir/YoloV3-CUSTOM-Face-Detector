@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/75519839/172169889-6ec9035f-496a-4dff-a476-c3b41c9b48b7.png)
 
-Extract Data From Musinsa Using Selenium & Selenium/Python
+Language : Python
 <img src = "https://user-images.githubusercontent.com/75519839/153009836-fc8e76bd-754c-4061-81c8-7a3a396b8144.png" width="30px">
 
 ---
