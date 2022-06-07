@@ -7,13 +7,16 @@ Language : Python
 
 ---
 
-### Install
+- [Install](#Install)
+- [How to use](#🗂-File-Information-and-How-to-use-🗂)
+
+## Install
 <pre><code>pip install -r requirements.txt</code></pre>
 The file was produced in Python version 3.8. 🧐
 
 --- 
 
-🗂 File Information and How to use 🗂
+## 🗂 File Information and How to use 🗂
 ### 💁🏻♂️ We've broken down the folders for future convenience!
 
 - Data_files are the files needed to spin the model.
