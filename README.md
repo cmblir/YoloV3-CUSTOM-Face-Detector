@@ -14,10 +14,10 @@ Language : Python
 - [2. File info](#-file-information-and-how-to-use-)
 
 ### Introduce Project 👨🏻‍💻
-- [1. Introduction](#1.-프로젝트-소개-)
-- [2. Project process](#2.-제작-과정-및-가설-수립-)
-- [3. Face detector result](#3.-얼굴-인식-결과-)
-- [4. Result](#4.-가설검정-결과-)
+- [1. Introduction](#1-프로젝트-소개-)
+- [2. Project process](#2-제작-과정-및-가설-수립-)
+- [3. Face detector result](#3-얼굴-인식-결과-)
+- [4. Result](#4-가설검정-결과-)
 - [5. Service](#)
 
 ---
