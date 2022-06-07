@@ -10,7 +10,7 @@ Language : Python
 ## Contents 😎
 
 ### How to use ⚡️
-- [1. install](#install-🎮)
+- [1. Install](#install-🎮)
 - [2. File info](#🗂-file-information-and-how-to-use-🗂)
 
 ### Introduce Project 👨🏻‍💻
