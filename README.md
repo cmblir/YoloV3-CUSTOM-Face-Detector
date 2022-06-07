@@ -10,8 +10,8 @@ Language : Python
 ## Contents 😎
 
 ### How to use ⚡️
-- [1. Install](#Install-🎮)
-- [2. File info](#🗂-File-Information-and-How-to-use-🗂)
+- [1. Install](#install-🎮)
+- [2. File info](#🗂-file-information-and-how-to-use-🗂)
 
 ### Introduce Project 👨🏻‍💻
 - [1. Introduction](#1.-프로젝트-소개-🚀)
