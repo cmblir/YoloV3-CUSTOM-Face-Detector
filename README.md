@@ -17,8 +17,6 @@ Language : Python
 - [1. Introduction](#1-프로젝트-소개-)
 - [2. Project process](#2-제작-과정-및-가설-수립-)
 - [3. Face detector result](#3-얼굴-인식-결과-)
-- [4. Result](#4-가설검정-결과-%EF%B8%8F)
-- [5. Service](#)
 
 ---
 
@@ -84,29 +82,3 @@ If you are curious about the project, please use a translator!
 <img width="1328" alt="image" src="https://user-images.githubusercontent.com/75519839/172174854-5087e018-68fd-416c-9ff1-a35db09b3b58.png"></img>
 - 좌 : 기존의 YoloV3
 - 우 : 커스텀 모델
-
-## 4. 가설검정 결과 ⭐️
-
-<img width="840" alt="image" src="https://user-images.githubusercontent.com/75519839/172175878-f11f884c-0e26-459e-856a-9b18808d35ff.png">
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/75519839/172175356-d46e0a1d-2659-4b01-b842-c7f06f681d5e.png">
-
-- Q. 모델을 직접 구현한다면 기존 모델보다 성능이 좋을까?
-    - A-1. 동양인에 대한 인식은 기존의 모델이 성능이 더 좋았다.
-    - A-2. 일부 이미지(동양인중 서구적인 얼굴, 얼굴이미지가 확실한 경우)에는 직접 구현한 모델이 성능이 더 좋았다.
-    - A-3. 전체적인 성능은 기존 모델 또는 OpenCV가 제가 만든 모델에 비해서 더 좋았다. 
-
-- Q. 사전학습을 내가 만든다면 어떤 점이 다를까?
-    - A-1. 내 입맛에 맞게끔 커스텀할 수 있다는 점였다.
-    - A-2. 데이터만 잘 찾는다면 해당 모델이 기존 모델보다 좋을거라는 생각이 든다.
-    
-- Q. OpenCV를 사용한 것과 안한 것의 차이는 무엇이 있을까?
-    - A-1. 직접 구현하는 만큼 커스텀이 가능하다.
-    - A-2. 내가 구현하면 문제도 많고, 데이터의 수집과 학습에 제한이 많다.
-    - A-3. 직접 구현을 한 것은 모델이 무겁기 때문에 실사용은 어려울 것이다.
-
-- Q. 내 얼굴의 퍼스널 컬러는 무엇인가?
-    - 구현중
-
-## 5. 서비스 구현 🔍
-
-- 
